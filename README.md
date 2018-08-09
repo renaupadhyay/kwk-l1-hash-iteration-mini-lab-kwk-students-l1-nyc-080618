@@ -12,6 +12,9 @@
 ### Add A Key Value Pair
 The 1996 summer olympics took place in Atlanta. Add this information to the hash.
 
+summer_olympics {""}
+summer_olympics[1996]=Atlanta
+
 ### Iterate Through the Hash
 Use the .each method to iterate through the `summer_olympics` hash and for each key-value pair `puts` a string that reads "The _____ summer olympics took place in ______."
 
